@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+  .box {
+            width: 300px; /* Box width */
+            background-color: lightblue; /* Background color */
+            border: 15px solid blue; /* Border */
+            padding: 50px; /* Padding inside the box */
+            margin: 20px; /* Margin around the box */
+            box-sizing: border-box; /* Ensure padding and border are included in the total width/height */
+            text-align: center; /* Align the text inside the box */
+        }
